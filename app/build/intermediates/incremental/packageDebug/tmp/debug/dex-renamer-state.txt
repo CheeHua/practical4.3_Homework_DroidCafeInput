@@ -1,0 +1,4 @@
+#Wed Jul 15 20:42:53 SGT 2020
+base.0=C\:\\Y2sem1\\android practical\\practical4.3_Homework_DroidCafeInput\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
